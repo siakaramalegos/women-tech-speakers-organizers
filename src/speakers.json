@@ -1,0 +1,625 @@
+[
+  {
+    "name": "Tracy Lee",
+    "twitter": "http://twitter.com/ladyleet)",
+    "personalSite": "http://www.ladyleet.com)",
+    "topics": "Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship",
+    "location": "Bay Area / San Francisco, CA & Raleigh, NC",
+    "region": "USA",
+    "speaker": true,
+    "organizer": true,
+    "groups": [
+      {
+        "name": "Modern Web",
+        "website": "http://www.meetup.com/modernweb",
+        "location": "Bay Area, CA",
+        "focus": "JavaScript, Front End Development"
+      }, {
+        "name": "Triangle Modern Web",
+        "website": "http://www.meetup.com/trianglemodernweb",
+        "location": "Raleigh, NC",
+        "focus": "JavaScript, Front End Development"
+      }
+    ],
+    "mentor": false
+  }, {
+    "name": "Raquel Vélez",
+    "twitter": "http://twitter.com/rockbot",
+    "personalSite": "http://reactive.audio",
+    "topics": "Keynote Speeches, JavaScript, Node.js, NPM, Front-End, Robots",
+    "location": "Bay Area / San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Marcy Sutton",
+    "twitter": "http://twitter.com/marcysutton",
+    "personalSite": "http://marcysutton.com",
+    "topics": "Keynote Speeches, JavaScript & Accessibility",
+    "location": "Bellingham, WA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Sarah Drasner",
+    "twitter": "http://twitter.com/sarah_edo",
+    "personalSite": "https://sarahdrasnerdesign.com/",
+    "topics": "Keynote Speeches, JavaScript, SVG, Animations, Vue.js",
+    "location": "Denver, CO",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Estelle Weyl",
+    "twitter": "http://twitter.com/estellevw",
+    "personalSite": "http://www.standardista.com/",
+    "topics": "Keynote Speeches, JavaScript, Accessibility, Standards",
+    "location": "San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Shirley Wu",
+    "twitter": "http://twitter.com/sxywu",
+    "personalSite": "http://sxywu.com/",
+    "topics": "Data Viz, JavaScript, React",
+    "location": "San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Mars Jullian",
+    "twitter": "http://twitter.com/marsjosephine",
+    "personalSite": "http://marsjullian.com/",
+    "topics": "JavaScript, React",
+    "location": "San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Stacy London",
+    "twitter": "http://twitter.com/stacylondoner",
+    "personalSite": "http://stacy-london.com/",
+    "topics": "JavaScript, React",
+    "location": "San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Cara Kuei",
+    "twitter": "http://twitter.com/carakuei",
+    "topics": "JavaScript, React",
+    "location": "Los Angeles, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Natalie Qabazard",
+    "twitter": "http://twitter.com/natqab",
+    "topics": "JavaScript, React",
+    "location": "San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Devon Lindsey",
+    "twitter": "http://twitter.com/devonbl",
+    "personalSite": "http://devonbrookelindsey.com/",
+    "topics": "JavaScript, React",
+    "location": "San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Ayşegül Yönet",
+    "twitter": "http://twitter.com/AysSomething",
+    "personalSite": "https://developers.google.com/experts/people/aysegul-yonet",
+    "topics": "JavaScript, Angular, VR",
+    "location": "San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Preethi Kasireddy",
+    "twitter": "http://twitter.com/iam_preethi",
+    "medium": "https://medium.com/@preethikasireddy",
+    "topics": "JavaScript, React",
+    "location": "San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Lin Clark",
+    "twitter": "http://twitter.com/linclark",
+    "personalSite": "https://code-cartoons.com/",
+    "topics": "JavaScript, React, Flux, Relay, Redux, WebAssembly",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Jen Simmons",
+    "twitter": "https://twitter.com/jensimmons",
+    "personalSite": "http://jensimmons.com",
+    "topics": "CSS, Layouts, Grids",
+    "location": "Brooklyn, NY",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Una Kravets",
+    "twitter": "http://twitter.com/una",
+    "personalSite": "https://una.im",
+    "topics": "Keynotes Speeches, JavaScript, CSS, Animations",
+    "location": "New York, NY",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Val Head",
+    "twitter": "http://twitter.com/vlh",
+    "personalSite": "http://valhead.com/",
+    "topics": "Keynotes Speeches, JavaScript, Animations",
+    "location": "Pittsburgh, PA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Aimee Knight",
+    "twitter": "http://twitter.com/Aimee_Knight",
+    "personalSite": "http://www.aimeemarieknight.com/",
+    "topics": "JavaScript",
+    "location": "Nashville, TN",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Jennifer Wadella",
+    "twitter": "https://twitter.com/likeOMGitsFEDAY",
+    "personalSite": "https://jenniferwadella.com/",
+    "topics": "JavaScript, Jewelbots, Community Building, Women in Tech",
+    "location": "Kansas City, MO",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Jen Looper",
+    "twitter": "http://twitter.com/jenlooper",
+    "personalSite": "http://www.ladeezfirstmedia.com/",
+    "topics": "Keynote Speeches, JavaScript, NativeScript, Web and Mobile Development",
+    "location": "Boston, MA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Jennifer Bland",
+    "twitter": "http://twitter.com/ratracegrad",
+    "personalSite": "http://www.jenniferbland.com/",
+    "topics": "Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox",
+    "location": "Atlanta, GA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Alaina Kafkes",
+    "twitter": "https://twitter.com/alainakafkes",
+    "personalSite": "http://alainakafk.es/",
+    "topics": "Technical Writing, Python, iOS Development, Web Development, Community Building",
+    "location": "Chicago, IL / San Francisco, CA",
+    "region": "USA",
+    "languages": "French",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Violet Peña",
+    "personalSite": "https://violet.is",
+    "topics": "JavaScript, Socket.IO, React, Creative Coding",
+    "location": "Portland, OR",
+    "region": "USA",
+    "languages": "Spanish",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Peggy Rayzis",
+    "twitter": "http://twitter.com/peggyrayzis",
+    "medium": "https://medium.com/@peggyrayzis",
+    "topics": "Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL",
+    "location": "Hoboken, NJ",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Tomomi Imura",
+    "twitter": "https://twitter.com/girlie_mac",
+    "personalSite": "http://www.girliemac.com/",
+    "topics": "Workshops, JS, Node.JS, IoT, mentoring, dev rel, mobile, design",
+    "location": "San Francisco, CA",
+    "region": "USA"
+,
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Bear Douglas",
+    "twitter": "https://twitter.com/beardigsit",
+    "topics": "Dev Rel, events, Android, APIs",
+    "location": "San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Lizzie Siegle",
+    "twitter": "http://twitter.com/lizziepika",
+    "github": "https://elizabethsiegle.github.io",
+    "topics": "Workshops, JavaScript, Swift, Haskell, meetups, hackathons",
+    "location": "Bryn Mawr, PA + San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Pearl Latteier",
+    "twitter": "https://twitter.com/pblatteier",
+    "personalSite": "https://pearlbea.com",
+    "topics": "JavaScript, Web Components, PWAs",
+    "location": "Madison, WI",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Tara Z. Manicsic",
+    "twitter": "https://twitter.com/Tzmanics",
+    "personalSite": "https://tzmanics.com",
+    "topics": "JavaScript, Angular, PWAs",
+    "location": "Cincinnati, OH",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Amara Keller",
+    "twitter": "http://twitter.com/MissAmaraKay",
+    "medium": "https://medium.com/@MissAmaraKay",
+    "topics": "AI, JavaScript, NodeJS, Dev Rel, Workshops, meetups",
+    "location": "Bay Area / San Francisco, CA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Jules Kremer",
+    "twitter": "http://twitter.com/jules_kremer",
+    "topics": "Keynote Speeches, Angular, Women in Tech",
+    "location": "Mountain View & San Diego, CA & Maui, HI",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Sarah Withee",
+    "twitter": "https://twitter.com/geekygirlsarah",
+    "personalSite": "http://www.sarahwithee.com",
+    "topics": "Hardware/robotics, workshops, women in tech, mental health in tech",
+    "location": "Kansas City, MO, US",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Catherine Meade",
+    "twitter": "https://twitter.com/catheraaine",
+    "personalSite": "http://catheraaine.com/",
+    "otherSite": "http://buildright.io/modern-css",
+    "topics": "CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech",
+    "location": "Dayton, OH, USA",
+    "region": "USA",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Myriam Jessier",
+    "twitter": "http://twitter.com/myriamjessier",
+    "personalSite": "https://myriamjessier.com/",
+    "topics": "SEO, Marketing, Search, UX",
+    "region": "Canada",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Ada Rose Cannon",
+    "twitter": "https://twitter.com/lady_ada_king",
+    "personalSite": "https://ada.is",
+    "topics": "WebVR, Progressive Web Apps, Web Technology, Samsung Internet Web Browser",
+    "location": "London, UK",
+    "region": "Europe",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Franziska Hinkelmann",
+    "twitter": "http://twitter.com/fhinkel",
+    "topics": "JavaScript VMs, Chrome V8",
+    "location": "Munich, Germany",
+    "region": "Europe",
+    "languages": "German",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Eva Lettner",
+    "twitter": "http://twitter.com/eva_trostlos",
+    "topics": "CSS, Animation",
+    "location": "Vienna, Austria",
+    "region": "Europe",
+    "languages": "German",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Hannah Wolfe",
+    "twitter": "http://twitter.com/ErisDS",
+    "topics": "JavaScript, sustainable Open Source projects",
+    "location": "Northhampton, UK",
+    "region": "Europe",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Marja Hölttä",
+    "twitter": "http://twitter.com/marjakh",
+    "topics": "JavaScript Parsers, Chrome V8",
+    "location": "Munich, Germany",
+    "region": "Europe",
+    "languages": "Finnish",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Simona Cotin",
+    "twitter": "http://twitter.com/simona_cotin",
+    "topics": "JavaScript, Angular, Node.js, Azure",
+    "location": "London, UK",
+    "region": "Europe",
+    "languages": "Romanian",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Carmen Popoviciu",
+    "twitter": "http://twitter.com/carmenpopoviciu",
+    "topics": "Keynote Speeches, Angular, Polymer, Machine Learning, Community",
+    "location": "Amsterdam, Netherlands",
+    "region": "Europe",
+    "languages": "Romanian, Dutch",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Ola Gasidlo",
+    "twitter": "http://twitter.com/misprintedtype",
+    "topics": "Keynote Speeches, Offline First, Web Compat",
+    "location": "Berlin, Germany",
+    "region": "Europe",
+    "languages": "German, Polish",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Stephanie Walter",
+    "twitter": "http://twitter.com/WalterStephanie",
+    "personalSite": "https://www.stephaniewalter.fr/",
+    "topics": "Design, Mobile, UX, CSS, HTML, Javascript",
+    "location": "Luxembourg",
+    "region": "Europe",
+    "languages": "French",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Britt Barak",
+    "facebook": "www.facebook.com/britt.bara",
+    "twitter": "https://twitter.com/BrittBarak",
+    "medium": "https://medium.com/@britt.barak",
+    "linkedin": "https://www.linkedin.com/in/brittbarak",
+    "topics": "Android (developement, OS, UX), Communities",
+    "location": "Tel Aviv, Israel",
+    "region": "Middle East",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Srushtika Neelakantam",
+    "twitter": "https://twitter.com/Srushtika",
+    "topics": "WebVR, A-Frame, Web Technologies, Realtime Technologies, deepstream.io",
+    "location": "Berlin, Germany",
+    "region": "Europe",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Ineke Scheffers",
+    "twitter": "https://twitter.com/fyineke",
+    "otherSite": "https:/twitter.com/GirlCodeNL",
+    "meetup": "https://www.meetup.com/girlcode/",
+    "topics": "Girl Code, women in tech, gender gap in code, workshops, community, web development, changing careers",
+    "location": "The Hague & Amsterdam, The Netherlands",
+    "region": "Europe",
+    "languages": "Dutch",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Kritika Maheshwari",
+    "twitter": "https://twitter.com/mozkri",
+    "topics": "Open Web Technologies, Rust",
+    "location": "Hyderabad, India",
+    "region": "Asia",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Sara Soueidan",
+    "twitter": "https://twitter.com/SaraSoueidan",
+    "personalSite": "https://www.sarasoueidan.com/",
+    "topics": "Keynote Speeches, CSS, SVG",
+    "location": "Lebanon",
+    "region": "Middle East",
+    "speaker": true,
+    "organizer": false,
+    "mentor": false
+  }, {
+    "name": "Aderinokun Ire",
+    "twitter": "@IreAderinokun](https://twitter.com/IreAderinokun",
+    "personalSite": "https://ireaderinokun.com",
+    "topics": "HTML/CSS, JavaScript, Accessibility, Progressive Enhancement",
+    "location": "Lagos, Nigeria",
+    "region": "Africa"
+
+## Women Tech Organizers
+
+  }, {
+    "name": "Nitya Narashimhan",
+    "twitter": "https://twitter.com/nitya",
+    "groups": [
+      {
+        "name": "GDG NYC",
+        "website": "https://www.meetup.com/gdgnyc/",
+        "location": "New York, NY",
+        "focus": "Google Technology, Mobile, Web, Wearables, Cloud, IoT"
+      }, {
+        "name": "GDG Hudson Valley",
+        "website": "https://www.meetup.com/gdg-hudson-valley/",
+        "location": "Hudson Valley, NY",
+        "focus": "Google Technology, Mobile, Web, Wearables, Cloud, IoT"
+      }
+    ],
+    "speaker": false,
+    "organizer": true,
+    "mentor": false
+  }, {
+    "name": "Anastasia Lanz",
+    "twitter": "https://twitter.com/anastasialanz",
+    "groups": [
+      {
+        "name": "GDG Pitt",
+        "website": "https://www.meetup.com/gdg-pitt/",
+        "location": "Pittsburgh, PA",
+        "focus": "Google Technology, Machine Learning, Web Development, Android"
+      }
+    ],
+    "speaker": false,
+    "organizer": true,
+    "mentor": false
+  }, {
+    "name": "K.C. Jones-Evans",
+    "twitter": "https://twitter.com/kcjonesevans",
+    "groups": [
+      {
+        "name": "Dayton Data Viz",
+        "website": "https://www.meetup.com/preview/daytondv",
+        "location": "Dayton, OH",
+        "focus": "Infographic Design and Development, Web Mapping, D3.js, R, Tableau, Matlab, Processing, Hadoop, Data Mining, etc... Anything to do with the design/development of awesome visualizations"
+      }, {
+        "name": "GDI Dayton",
+        "website": "https://www.meetup.com/preview/girl-develop-it-dayton",
+        "location": "Dayton, OH",
+        "focus": ""
+      }
+    ],
+    "speaker": false,
+    "organizer": true,
+    "mentor": false
+  }, {
+    "name": "Madlaina Kalunder",
+    "twitter": "http://twitter.com/anialdam",
+    "groups": [
+      {
+        "name": "Women Techmakers Switzerland",
+        "website": "https://www.meetup.com/wtm-switzerland/",
+        "location": "Switzerland",
+        "focus": ""
+      }
+    ],
+    "speaker": false,
+    "organizer": true,
+    "mentor": false
+  }, {
+    "name": "Natalie Pistunovich",
+    "twitter": "https://twitter.com/nataliepis",
+    "groups": [
+      {
+        "name": "Women Techmakers Berlin",
+        "website": "http://wtmberlin.com/",
+        "location": "Berlin, Germany",
+        "focus": ""
+      }
+    ],
+    "speaker": false,
+    "organizer": true,
+    "mentor": false
+  }, {
+    "name": "Britt Barak",
+    "twitter": "https://twitter.com/BrittBarak",
+    "facebook": "www.facebook.com/britt.barak",
+    "groups": [
+      {
+        "name": "Women Techmakers Israel",
+        "website": "https://www.facebook.com/wtmil/",
+        "location": "Tel Aviv, Israel",
+        "focus": "Public speaking, soft skills, WLB, AI, ML, DL"
+      }, {
+        "name": "Android Academy TLV",
+        "website": "https://www.facebook.com/groups/android.academy.ils",
+        "location": "Tel Aviv, Israel",
+        "focus": "Android development (beginners, professionals), Android UX"
+      }
+    ],
+    "speaker": false,
+    "organizer": true,
+    "mentor": false
+  }, {
+    "name": "Martin Splitt",
+    "twitter": "https://twitter.com/g33konaut",
+    "personalSite": "http://geekonaut.de",
+    "howToContact": "Twitter, open direct messages",
+    "mentorTopics": "Web Development, WebVR / WebGL, Career in tech, Public Speaking",
+    "region": "Europe",
+    "speaker": false,
+    "organizer": false,
+    "mentor": true
+  }, {
+    "name": "Pavithra Kodmad",
+    "twitter": "http://twitter.com/PKodmad",
+    "email": "pavithra.kodmad@gmail.com",
+    "mentorTopics": "Javascript development, OSS contribution, Front End development. If there are any motivated women out there who are putting continuous effort towards learning some front-end development, I can help them out by teaching concepts, internals of libs, debugging their work and generally do some pairing.",
+    "location": "Sydney, Australia",
+    "region": "Australia",
+    "speaker": false,
+    "organizer": false,
+    "mentor": true
+  }
+]
